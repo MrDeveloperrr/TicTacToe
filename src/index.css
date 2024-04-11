@@ -38,3 +38,13 @@ fill: none;
 
 
 }
+
+.winner{
+background: rgba(214, 9, 9, 0.329);
+width: 50vw;
+height: 50vh;
+position: absolute;
+display: flex;
+align-items: center;
+justify-content: center;
+}
